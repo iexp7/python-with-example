@@ -110,4 +110,4 @@ Unless stated otherwise, examples assume Python 3.10 or later. Try to upgrade to
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-by [Dariush Abbasi](https://github.com/dariubs) | [source](https://github.com/pycollege/python-by-example)
+by [iexp7](https://github.com/iexp7) | [source](https://github.com/iexp7/python-with-example)
